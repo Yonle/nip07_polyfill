@@ -5,7 +5,7 @@ A drop in replacement when NIP-07 addon is not detected.
 You will also need to load [nostr-tools](https://npmjs.com/nostr-tools) script in order to use this polyfill
 
 ```html
-<script src="https://raw.githubusercontent.com/Yonle/nip07_polyfill/master/nip07_polyfill.js
+<script src="https://raw.githubusercontent.com/Yonle/nip07_polyfill/master/nip07_polyfill.js"></script>
 ```
 
 ## Function Compatibility
