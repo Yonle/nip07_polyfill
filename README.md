@@ -1,5 +1,5 @@
 ## nip07_polyfill
-An drop in replacement when NIP-07 addon is not detected.
+A drop in replacement when NIP-07 addon is not detected.
 
 ## Loading the script
 You will also need to load [nostr-tools](https://npmjs.com/nostr-tools) script in order to use this polyfill
